@@ -43,9 +43,9 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
 
 ## 📊 Mis Estadísticas de GitHub
 
-<img src="../theyisuskill/image.png" alt="Descripción de la imagen" />
-<img src="../theyisuskill/progreso.png" alt="Descripción de la imagen" />
-<img src="../theyisuskill/nivel.png" alt="Descripción de la imagen" />
+<img src="/image.png" alt="Descripción de la imagen" />
+<img src="/progreso.png" alt="Descripción de la imagen" />
+<img src="/nivel.png" alt="Descripción de la imagen" />
 
 ---
 
