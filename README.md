@@ -6,28 +6,13 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
 
 ###  Mis Habilidades
 
-* **Desarrollo Backend**
-    * Python
-    * Frameworks: Flask, FastAPI, Django
-* **Desarrollo Frontend**
-    * JavaScript
-    * React
-* **Base de Datos**
-    * PostgreSQL
-* **Odoo**
-    * Customización
-    * Desarrollo de módulos
-* **APIs**
-    * Diseño
-    * Desarrollo
-    * Integración
-* **DevOps**
-    * Git
-    * GitLab CI
-    * Nginx
-* **Herramientas**
-    * Postman
-    * Anaconda
+- **Desarrollo Backend**: Python, Flask, FastAPI, Django
+- **Desarrollo Frontend**: JavaScript, React
+- **Base de Datos**: PostgreSQL
+- **Odoo**: Customización y desarrollo de módulos
+- **API**: Diseño, desarrollo e integración
+- **DevOps**: Git, GitLab CI, Nginx
+- **Herramientas**: Postman, Anaconda
 
 ### 🌟 Lo que me hace destacar
 
@@ -74,14 +59,14 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
         display: flex;
         flex-direction: row;
         align-items: center;
-        background: rgba(30, 30, 63, 0.95); /* Fondo más oscuro */
-        border-radius: 16px; /* Bordes más redondeados */
-        padding: 25px 40px; /* Espaciado más amplio */
+        background: rgba(30, 30, 63, 0.95);
+        border-radius: 16px;
+        padding: 25px 40px;
         width: fit-content;
         height: fit-content;
         text-align: left;
-        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4); /* Sombra más intensa */
-        border: 2px solid rgba(255, 255, 255, 0.2); /* Borde blanco suave */
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+        border: 2px solid rgba(255, 255, 255, 0.2);
         transition: transform 0.3s, box-shadow 0.3s;
     }
 
@@ -93,13 +78,13 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
     .stats-content {
         flex: 1;
         padding-right: 30px;
-        text-align: left; /* Mantener texto alineado a la izquierda */
+        text-align: left;
     }
 
     .stats-card h3 {
         margin: 0 0 20px;
         color: #ff6ac1;
-        font-size: 22px; /* Tamaño de fuente más grande */
+        font-size: 22px;
     }
 
     .stats-card ul {
@@ -108,11 +93,11 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
     }
 
     .stats-card li {
-        margin: 10px 0; /* Espaciado más amplio entre los elementos */
+        margin: 10px 0;
         display: flex;
         justify-content: space-between;
-        font-size: 16px; /* Tamaño de texto más grande */
-        color: #d1d1e9; /* Texto en gris claro */
+        font-size: 16px;
+        color: #d1d1e9;
     }
 
     .stats-card li span {
@@ -121,14 +106,14 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
     }
 
     .rating-circle {
-        width: 90px; /* Tamaño del círculo aumentado */
+        width: 90px;
         height: 90px;
         border-radius: 50%;
         background: linear-gradient(135deg, #ff6ac1, #ff3e9a);
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 26px; /* Tamaño de texto más grande dentro del círculo */
+        font-size: 26px;
         color: #1e1e3f;
         font-weight: bold;
         box-shadow: 0 6px 16px rgba(255, 106, 193, 0.5);
