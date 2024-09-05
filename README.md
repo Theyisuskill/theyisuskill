@@ -4,15 +4,30 @@
 
 Soy un apasionado desarrollador de software con experiencia en una amplia gama de tecnologías y un enfoque especial en Python y Odoo. Me encanta crear soluciones eficientes y escalables que impulsen el éxito de los negocios.
 
-### 🚀 Mis Habilidades
+###  Mis Habilidades
 
-- **Desarrollo Backend**: Python, Flask, FastAPI, Django
-- **Desarrollo Frontend**: JavaScript, React
-- **Base de Datos**: PostgreSQL
-- **Odoo**: Customización y desarrollo de módulos
-- **API**: Diseño, desarrollo e integración
-- **DevOps**: Git, GitLab CI, Nginx
-- **Herramientas**: Postman, Anaconda
+* **Desarrollo Backend**
+    * Python
+    * Frameworks: Flask, FastAPI, Django
+* **Desarrollo Frontend**
+    * JavaScript
+    * React
+* **Base de Datos**
+    * PostgreSQL
+* **Odoo**
+    * Customización
+    * Desarrollo de módulos
+* **APIs**
+    * Diseño
+    * Desarrollo
+    * Integración
+* **DevOps**
+    * Git
+    * GitLab CI
+    * Nginx
+* **Herramientas**
+    * Postman
+    * Anaconda
 
 ### 🌟 Lo que me hace destacar
 
@@ -43,23 +58,152 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
 
 ## 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theyisuskill&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, #2d2b55, #1e1e3f);
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .stats-card {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        background: rgba(30, 30, 63, 0.95); /* Fondo más oscuro */
+        border-radius: 16px; /* Bordes más redondeados */
+        padding: 25px 40px; /* Espaciado más amplio */
+        width: fit-content;
+        height: fit-content;
+        text-align: left;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4); /* Sombra más intensa */
+        border: 2px solid rgba(255, 255, 255, 0.2); /* Borde blanco suave */
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .stats-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 14px 28px rgba(0, 0, 0, 0.6);
+    }
+
+    .stats-content {
+        flex: 1;
+        padding-right: 30px;
+        text-align: left; /* Mantener texto alineado a la izquierda */
+    }
+
+    .stats-card h3 {
+        margin: 0 0 20px;
+        color: #ff6ac1;
+        font-size: 22px; /* Tamaño de fuente más grande */
+    }
+
+    .stats-card ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .stats-card li {
+        margin: 10px 0; /* Espaciado más amplio entre los elementos */
+        display: flex;
+        justify-content: space-between;
+        font-size: 16px; /* Tamaño de texto más grande */
+        color: #d1d1e9; /* Texto en gris claro */
+    }
+
+    .stats-card li span {
+        font-weight: bold;
+        color: #ff6ac1;
+    }
+
+    .rating-circle {
+        width: 90px; /* Tamaño del círculo aumentado */
+        height: 90px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #ff6ac1, #ff3e9a);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 26px; /* Tamaño de texto más grande dentro del círculo */
+        color: #1e1e3f;
+        font-weight: bold;
+        box-shadow: 0 6px 16px rgba(255, 106, 193, 0.5);
+        transition: transform 0.3s, box-shadow 0.3s;
+        align-self: center;
+    }
+
+    .rating-circle:hover {
+        transform: scale(1.15);
+        box-shadow: 0 8px 20px rgba(255, 106, 193, 0.7);
+    }
+
+    .chart {
+            position: relative;
+            width: 200px;
+            height: 200px;
+            margin: 0 auto;
+        }
+    .chart svg {
+        transform: rotate(-90deg);
+    }
+</style>
+<div class="stats-card">
+        <div class="stats-content">
+            <h3>Jesús Mendoza's GitHub Stats</h3>
+            <ul>
+                <li>Total Stars Earned: <span>0</span></li>
+                <li>Total Commits (2024): <span>1800</span></li>
+                <li>Total PRs: <span>400</span></li>
+                <li>Total Issues: <span>100</span></li>
+                <li>Contributed to (last year): <span>27</span></li>
+            </ul>
+        </div>
+        <div class="rating-circle">S+</div>
+    </div>
+
+<div class="stats-card">
+    <div class="stats-content">
+        <h3>Statistics Overview</h3>
+        <ul>
+            <li>Total Contributions: <span>1,030</span></li>
+            <li>Current Streak: <span>400 days</span></li>
+            <li>Longest Streak: <span>13 days</span></li>
+        </ul>
+    </div>
+    <div class="rating-circle">
+        400
+    </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theyisuskill&theme=radical" alt="Racha de GitHub" />
+
+
+<div class="stats-card">
+        <div class="stats-content">
+            <h3>Lenguajes Más Utilizados</h3>
+            <ul>
+                <li><span>Python</span> 70.00%</li>
+                <li><span>JavaScript</span> 30.00%</li>
+            </ul>
+        </div>
+       
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyisuskill&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
+
+
+
+
+
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=theyisuskill&color=blueviolet" alt="Contador de visitas del perfil" />
 </div>
+
 
 ### 💡 Un pensamiento para compartir
 
