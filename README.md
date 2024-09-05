@@ -4,7 +4,7 @@
 
 Soy un apasionado desarrollador de software con experiencia en una amplia gama de tecnologías y un enfoque especial en Python y Odoo. Me encanta crear soluciones eficientes y escalables que impulsen el éxito de los negocios.
 
-###  Mis Habilidades
+### Mis Habilidades
 
 - **Desarrollo Backend**: Python, Flask, FastAPI, Django
 - **Desarrollo Frontend**: JavaScript, React
@@ -55,7 +55,7 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
         margin: 0;
     }
 
-    .stats-card {
+    stats-card {
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -70,29 +70,29 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
         transition: transform 0.3s, box-shadow 0.3s;
     }
 
-    .stats-card:hover {
+    stats-card:hover {
         transform: translateY(-8px);
         box-shadow: 0 14px 28px rgba(0, 0, 0, 0.6);
     }
 
-    .stats-content {
+    stats-content {
         flex: 1;
         padding-right: 30px;
         text-align: left;
     }
 
-    .stats-card h3 {
+    stats-card h3 {
         margin: 0 0 20px;
         color: #ff6ac1;
         font-size: 22px;
     }
 
-    .stats-card ul {
+    stats-card ul {
         list-style: none;
         padding: 0;
     }
 
-    .stats-card li {
+    stats-card li {
         margin: 10px 0;
         display: flex;
         justify-content: space-between;
@@ -100,12 +100,12 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
         color: #d1d1e9;
     }
 
-    .stats-card li span {
+    stats-card li span {
         font-weight: bold;
         color: #ff6ac1;
     }
 
-    .rating-circle {
+    rating-circle {
         width: 90px;
         height: 90px;
         border-radius: 50%;
@@ -121,23 +121,23 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
         align-self: center;
     }
 
-    .rating-circle:hover {
+    rating-circle:hover {
         transform: scale(1.15);
         box-shadow: 0 8px 20px rgba(255, 106, 193, 0.7);
     }
 
-    .chart {
+    chart {
             position: relative;
             width: 200px;
             height: 200px;
             margin: 0 auto;
         }
-    .chart svg {
+    chart svg {
         transform: rotate(-90deg);
     }
 </style>
-<div class="stats-card">
-        <div class="stats-content">
+<stats-card>
+        <stats-content>
             <h3>Jesús Mendoza's GitHub Stats</h3>
             <ul>
                 <li>Total Stars Earned: <span>0</span></li>
@@ -146,36 +146,33 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
                 <li>Total Issues: <span>100</span></li>
                 <li>Contributed to (last year): <span>27</span></li>
             </ul>
-        </div>
-        <div class="rating-circle">S+</div>
-    </div>
+        </stats-content>
+        <rating-circle>S+</rating-circle>
+</stats-card>
 
-<div class="stats-card">
-    <div class="stats-content">
+<stats-card>
+    <stats-content>
         <h3>Statistics Overview</h3>
         <ul>
             <li>Total Contributions: <span>1,030</span></li>
             <li>Current Streak: <span>400 days</span></li>
             <li>Longest Streak: <span>13 days</span></li>
         </ul>
-    </div>
-    <div class="rating-circle">
+    </stats-content>
+    <rating-circle>
         400
-    </div>
-</div>
+    </rating-circle>
+</stats-card>
 
-
-
-<div class="stats-card">
-        <div class="stats-content">
+<stats-card>
+        <stats-content>
             <h3>Lenguajes Más Utilizados</h3>
             <ul>
                 <li><span>Python</span> 70.00%</li>
                 <li><span>JavaScript</span> 30.00%</li>
             </ul>
-        </div>
-       
-</div>
+        </stats-content>
+</stats-card>
 
 
 
