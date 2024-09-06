@@ -11,7 +11,7 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
 - **Base de Datos**: PostgreSQL
 - **Odoo**: Customización y desarrollo de módulos
 - **API**: Diseño, desarrollo e integración
-- **DevOps**: Git, GitLab CI, Nginx
+- **DevOps**: Git, Github CI, Nginx
 - **Herramientas**: Postman, Anaconda
 
 ### 🌟 Lo que me hace destacar
