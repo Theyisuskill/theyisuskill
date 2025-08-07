@@ -1,32 +1,20 @@
-# 👋 Hola, soy Jesús Mendoza
+# 👋 Sobre mí
 
-## 💻 Desarrollador Full Stack | 🐍 Experto en Python | 🦉 Especialista en Odoo
+¡Hola! Soy Jesús Mendoza, un Desarrollador Full Stack con una gran pasión por la creación de soluciones de software eficientes y escalables. Mi objetivo es aportar al éxito de los negocios a través de la tecnología, con un enfoque especial en Python y la personalización de Odoo.
 
-Soy un apasionado desarrollador de software con experiencia en una amplia gama de tecnologías y un enfoque especial en Python y Odoo. Me encanta crear soluciones eficientes y escalables que impulsen el éxito de los negocios.
+---
 
-### Mis Habilidades
+### 💼 Mi Experiencia
 
-- **Desarrollo Backend**: Python, Flask, FastAPI, Django
-- **Desarrollo Frontend**: JavaScript, React
-- **Base de Datos**: PostgreSQL
-- **Odoo**: Customización y desarrollo de módulos
-- **API**: Diseño, desarrollo e integración
-- **DevOps**: Git, Github CI, Nginx
-- **Herramientas**: Postman, Anaconda
+-   **Desarrollo Backend:** Cuento con sólida experiencia en la construcción de APIs robustas y servicios web utilizando Python con frameworks como Flask, FastAPI y Django.
+-   **Desarrollo Frontend:** Desarrollo interfaces de usuario dinámicas y responsivas con JavaScript y React.
+-   **Bases de Datos:** Tengo un amplio conocimiento en la administración y optimización de bases de datos PostgreSQL.
+-   **Odoo:** Me especializo en el desarrollo y personalización de módulos a la medida de las necesidades del cliente.
+-   **Infraestructura y DevOps:** Manejo de control de versiones con Git, integración continua con GitHub CI y configuración de servidores web con Nginx.
 
-### 🌟 Lo que me hace destacar
+---
 
-- 🔧 Experto en customización de Odoo
-- 🌐 Mago del JavaScript y creación de interfaces dinámicas
-- 🐘 Maestría en PostgreSQL y optimización de bases de datos
-- 🚀 Obsesionado con la optimización del rendimiento
-- 🤝 Entusiasta de la colaboración y el trabajo en equipo
-
-## 🌐 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús_Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesús-mendoza-565598254)
-
-## 🛠️ Mi Stack Tecnológico
+### 🛠️ Mi Stack Tecnológico
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,20 +29,12 @@ Soy un apasionado desarrollador de software con experiencia en una amplia gama d
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-## 📊 Mis Estadísticas de GitHub
 
-<img src="/image.png" alt="Descripción de la imagen" />
-<img src="/progreso.png" alt="Descripción de la imagen" />
-<img src="/nivel.png" alt="Descripción de la imagen" />
 
----
+### 🌐 Conecta Conmigo
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theyisuskill&color=blueviolet" alt="Contador de visitas del perfil" />
-</div>
+Estoy abierto a colaborar en proyectos interesantes y a conectar con otros profesionales del sector. ¡No dudes en contactarme!
 
-### 💡 Un pensamiento para compartir
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús_Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesús-mendoza-565598254)
 
 > "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
-
-¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar en algún proyecto interesante o simplemente charlar sobre tecnología.
